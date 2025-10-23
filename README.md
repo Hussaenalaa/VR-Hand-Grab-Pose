@@ -30,10 +30,8 @@ This Unity scene shows how to:
 
 ## 🚀 Setup & Usage
 
-1. **Install Unity 6.2 LTS** (or compatible version).
-2. **Clone this repository**:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+ **Install Unity 6.2 LTS** (or compatible version).
+
 Open the project in Unity Hub.
 
 Import the Meta XR All-in-One SDK (v65).

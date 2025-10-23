@@ -71,34 +71,7 @@ How to record and customize grab poses.
 
 The relationship between hand tracking, physics, and user interaction.
 
-💡 Future Improvements
-Add dynamic grab poses for irregular object shapes.
 
-Integrate hand pose recognition for gesture-based actions.
 
-Improve visual feedback for grab surfaces.
+<img width="777" height="393" alt="image" src="https://github.com/user-attachments/assets/212239e9-b8bb-441f-93fc-a818fc6ca75c" />
 
-🤝 Contributing
-Pull requests are welcome!
-For major changes, please open an issue first to discuss what you’d like to change.
-
-📄 License
-This project is for educational purposes only and follows the guidelines in Meta’s official documentation.
-© 2025 Meta Platforms, Inc. and contributors.
-
-🔗 References
-Meta XR SDK Documentation
-
-Create a Hand Grab Pose (Android)
-
-Meta Quest Developer Blog
-
-🧑‍💻 Created by Your Name
-📧 For learning & VR experimentation.
-
-yaml
-Copy code
-
----
-
-Would you like me to tailor it more like a **personal project portfolio README** (with screenshots, credits

@@ -60,7 +60,9 @@ Grab Surfaces let users grab from different angles for natural interactions.
 
 Mirroring creates right-hand equivalents automatically.
 
-🧠 Learning Goals
+---
+
+##🧠 Learning Goals
 This project helps you understand:
 
 The Interaction SDK workflow for VR hands.
